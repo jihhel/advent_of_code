@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>advent_of_code_mvn</artifactId>
+  <artifactId>advent_of_code</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>advent_of_code_mvn</name>
+  <name>advent_of_code</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
